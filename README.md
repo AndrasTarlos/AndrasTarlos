@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, My name is Andras Tarlos</h1>
 <h3 align="center">I am a software engineering student in the IMS</h3>
 
-<h3>About Me</h3>
-<h4>·</h4>
-<h4>·</h4>
-<h4>·</h4>
+<h3>About Me:</h3>
+<h4>· Interests: Frontend, Backend, Cyber Security, Linux</h4>
+<h4>· Hobbies: Rowing, Programming, Reading, Gaming</h4>
+<h4>· E-mail: andras.ts04@gmail.com</h4>
 <h4>·</h4>
 
 <h3 align="left">Connect with me:</h3>
