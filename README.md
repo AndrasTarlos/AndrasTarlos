@@ -1,6 +1,12 @@
 <h1 align="center">Hello 👋, My name is Andras Tarlos</h1>
 <h3 align="center">I am a software engineering student in the IMS</h3>
 
+<h3>About Me</h3>
+<h4>·</h4>
+<h4>·</h4>
+<h4>·</h4>
+<h4>·</h4>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andras-tarlos-015b211b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andras-tarlos-015b211b9/" height="30" width="40" /></a>
