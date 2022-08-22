@@ -1,6 +1,8 @@
 <h1 align="center">Hello 👋, My name is Andras Tarlos</h1>
 <h3 align="center">I am a software engineering student in the IMS</h3>
 
+<hr>
+
 <h3>About Me:</h3>
 <h4> Interests: Frontend, Backend, Cyber Security, Linux</h4>
 <h4> Hobbies: Rowing, Programming, Reading, Gaming</h4>
