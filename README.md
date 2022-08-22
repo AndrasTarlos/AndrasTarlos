@@ -6,8 +6,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andras-tarlos-015b211b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andras-tarlos-015b211b9/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/edit/16840485" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/edit/16840485" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/agagjy.teamfg.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/agagjy.teamfg.3/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/itguy19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itguy19/" height="30" width="40" /></a>
-<a href="https://app.hackthebox.com/users/918206" target="blank"><img align="center" src="https://ih1.redbubble.net/image.1897916601.6130/st,small,507x507-pad,600x600,f8f8f8.jpg" alt="https://app.hackthebox.com/users/918206" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/itguy19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itguy19/" height="40" width="40" /></a>
+<a href="https://app.hackthebox.com/users/918206" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="https://app.hackthebox.com/users/918206" height="30" width="40" /></a>
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
