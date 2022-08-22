@@ -6,7 +6,7 @@
 <h3>About Me:</h3>
 <h4> Interests: 🌐 Frontend, 🖥 Backend, 🖱️ Cyber Security, 🐧 Linux</h4>
 <h4> Hobbies: 🚣‍♂️ Rowing, 👨‍💻 Programming, 📖 Reading, 🎮 Gaming</h4>
-<h4> E-mail: 📧 andras.ts04@gmail.com</h4>
+<h4> E-mail: 📧 <a href="mailto: andras.ts04@gmail.com">andras.ts04@gmail.com</a></h4>
 
 <hr>
 
