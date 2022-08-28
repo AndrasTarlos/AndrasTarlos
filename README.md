@@ -18,7 +18,8 @@
 <a href="https://www.leetcode.com/https://leetcode.com/itguy19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itguy19/" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/users/918206" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="https://app.hackthebox.com/users/918206" height="40" width="40" /></a>
 <a href="https://www.codewars.com/users/hunsm19" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt=" https://www.codewars.com/users/hunsm19" height="40" width="40" /></a>
- </p>
+<a href="https://play.picoctf.org/users/itguy19" target="blank"><img align="center" src="https://picoctf.org/img/logos/picoctf-logo-og.png" alt=" https://play.picoctf.org/users/itguy19" height="40" width="40" /></a>
+</p>
 
 <hr>
 
