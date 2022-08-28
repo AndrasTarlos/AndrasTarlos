@@ -18,7 +18,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/itguy19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itguy19/" height="30" width="40" /></a>
 <a href="https://app.hackthebox.com/users/918206" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/31746234?s=280&v=4" alt="https://app.hackthebox.com/users/918206" height="40" width="40" /></a>
 <a href="https://www.codewars.com/users/hunsm19" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg" alt=" https://www.codewars.com/users/hunsm19" height="40" width="40" /></a>
-<a href="https://play.picoctf.org/users/itguy19" target="blank"><img align="center" src="[https://picoctf.org/img/logos/picoctf-logo-og.png](https://pbs.twimg.com/profile_images/1170012529113882625/HL2HWq60_400x400.jpg)" alt=" https://play.picoctf.org/users/itguy19" height="40" width="40" /></a>
+<a href="https://play.picoctf.org/users/itguy19" target="blank"><img align="center" src="https://mobile.twitter.com/picoctf/photo" alt=" https://play.picoctf.org/users/itguy19" height="40" width="40" /></a>
 </p>
 
 <hr>
